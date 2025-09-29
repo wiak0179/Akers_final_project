@@ -37,7 +37,7 @@ This ensures the agent avoids “gaming” the environment and instead learns sm
 ### 🎥 Video Demo
 
 Watch the trained agent in action:  
-[▶️ Watch on YouTube]([https://youtu.be/your-youtube-link](https://youtu.be/tH0pOOpzQyM))
+[▶️ Watch on YouTube](https://youtu.be/tH0pOOpzQyM)
 
 
 ## 📂 Project Structure
